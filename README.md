@@ -1,2 +1,0 @@
-# esercizio-thread
-# esercizio-thread
